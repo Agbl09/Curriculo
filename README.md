@@ -1,4 +1,4 @@
-# 🌟 Meu Currículo
+# 🌟 Meu Currículo - Gabriela Rodrigues de Souza
 
 Bem-vindo ao meu repositório de **Currículo**! 📑 Aqui, você encontrará o código fonte para o meu currículo pessoal, que está hospedado no GitHub Pages. O objetivo desse repositório é apresentar minhas habilidades, experiências e projetos de forma interativa e moderna. 🚀
 
