@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de **Currículo**! 📑 Aqui, você encontrará o 
 
 ## 🎯 Objetivo
 
-Este repositório tem como principal objetivo criar um currículo online que seja acessível, bonito e fácil de ler. A ideia é ter uma versão do meu currículo disponível 24/7 na web, para que recrutadores e qualquer pessoa interessada possam visualizar minhas qualificações e me conhecer melhor.
+Este repositório contém o meu currículo online, criado com base no curso da DIO "Criando Seu Currículo Online Com HTML e GitHub Pages". A ideia é ter uma versão do meu currículo disponível 24/7 na web, para que recrutadores e qualquer pessoa interessada possam visualizar minhas qualificações e me conhecer melhor. Ele tem como principal objetivo criar um currículo online que seja acessível, bonito e fácil de ler.
 
 ## 🛠️ Tecnologias Utilizadas
 
