@@ -28,7 +28,7 @@ Eu espero que este currículo seja uma ferramenta eficaz para me apresentar de f
 
 Você pode acessar a versão online do meu currículo clicando no link abaixo:
 
-🔗 [Currículo Online](https://agbl09.github.io/Curriculo/)
+🔗 [Currículo Online](https://gabriela-agbl.github.io/Curriculo/)
 
 ## 📌 Como Contribuir
 
@@ -38,7 +38,7 @@ Se você tiver sugestões ou melhorias para o design ou conteúdo, fique à vont
 
 - **Email**: gabriela.souza.investimentos@gmail.com
 - **LinkedIn**: [linkedin.com/in/gabriela-rodrigues-agbl](https://www.linkedin.com/in/gabriela-rodrigues-agbl/)
-- **GitHub**: [github.com/Agbl09](https://github.com/Agbl09)
+- **GitHub**: [github.com/gabriela-agbl](https://github.com/gabriela-agbl)
 
 ---
 
